@@ -1,0 +1,20 @@
+.btn1, .btn2 {
+    background-color: #3c47ff;
+    color: white;
+    border: none;
+    width: 40%;
+    max-width: 210px;
+    height: 48px;
+    border-radius: 6px;
+    font-size: 16px;
+    transition: 0.2s ease-in-out;
+    margin: 0 5px;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
